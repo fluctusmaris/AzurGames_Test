@@ -126,13 +126,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Main
+      name: Frame_Original
       rect:
         serializedVersion: 2
-        x: 219
-        y: 0
-        width: 1618
-        height: 1002
+        x: 83
+        y: 689
+        width: 272
+        height: 211
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,10 +276,10 @@ TextureImporter:
       name: Steam
       rect:
         serializedVersion: 2
-        x: 1331
+        x: 1327
         y: 1775
-        width: 104
-        height: 212
+        width: 106
+        height: 218
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,10 +297,10 @@ TextureImporter:
       name: Steam_Green
       rect:
         serializedVersion: 2
-        x: 1499
-        y: 1774
-        width: 129
-        height: 224
+        x: 1492
+        y: 1777
+        width: 134
+        height: 223
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,6 +356,132 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: A_Main_0
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1900
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64db8cdc89fd0a04cbbd743a84db518e
+      internalID: 135204231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Main_1
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1841
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f4020881b8e84b93c071619c2afc7
+      internalID: -785617261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Main_2
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1852
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ea133a5a73a14b94d0b23fa7021a3
+      internalID: -1928904388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Main_3
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1813
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c210027665874591ff34338e2bd4c
+      internalID: 48504914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 506
+        width: 1618
+        height: 1003
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9143a80e2b783a4bb29b8a1961291e7
+      internalID: -1299071149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foreground
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 1618
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38273485ee1c6924183cd97e627eddd9
+      internalID: 1470910338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -368,20 +494,25 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       A_Main_0: 135204231
+      A_Main_1: -785617261
       A_Main_10: -843401874
       A_Main_11: 1160845999
+      A_Main_2: -1928904388
+      A_Main_3: 48504914
       A_Main_7: -2008166244
       A_Main_8: 742331428
+      Background: -1299071149
       Bird: -1023874109
       Bottl: 218621953
       Bottle: 1420367632
       Bottle_Original: 1519518998
       Colla: 1158931999
       Collar: 544565844
+      Foreground: 1470910338
       Frame: -1755354743
+      Frame_Original: 2112986977
       Juic: 1684466640
       Juice: -888811715
-      Main: 2112986977
       Pot_NoSkull: -362140740
       Pot_Skull: 420320052
       RedBottle: 98453538
